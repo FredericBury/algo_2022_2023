@@ -1,5 +1,5 @@
-3. une fonction récursive qui retourne le nombre d’éléments du tableau de valeur supérieure à la valeur
-v donnée en paramètre ;
+*/*3. une fonction récursive qui retourne le nombre d’éléments du tableau de valeur supérieure à la valeur
+v donnée en paramètre ;*/
 
 int sup(int *tab, int n, int v) // fonction pour retourner le nombre d'éléments supérieur a la valeur v
 {

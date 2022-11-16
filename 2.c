@@ -1,5 +1,5 @@
-2. une fonction récursive de calcul de la somme à 2 paramètres au lieu des 3 paramètres de la fonction
-donnée dans le code ci-dessus ;
+/*2. une fonction récursive de calcul de la somme à 2 paramètres au lieu des 3 paramètres de la fonction
+donnée dans le code ci-dessus ;*/
 
 
 int somme(Tab t, int n) //fonction somme modifié a 2 paramètres

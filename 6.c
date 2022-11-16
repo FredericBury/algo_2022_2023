@@ -1,5 +1,5 @@
-6. une fonction récursive de recherche par dichotomie d’une valeur v dans le tableau trié (retourne l’indice
-si trouvée, -1 sinon) ; utiliser un 2e tableau t2 dans le main.
+/*6. une fonction récursive de recherche par dichotomie d’une valeur v dans le tableau trié (retourne l’indice
+si trouvée, -1 sinon) ; utiliser un 2e tableau t2 dans le main.*/
 
 
 int rechercheDicho(Tab t, int v, int debut, int fin )

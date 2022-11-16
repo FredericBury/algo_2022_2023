@@ -1,4 +1,4 @@
-4. une fonction récursive qui affiche le tableau selon les indices décroissants (en partant du dernier) ;
+//4. une fonction récursive qui affiche le tableau selon les indices décroissants (en partant du dernier) ;
 
 
 void TabInv(int tab[],int n)
